@@ -9,3 +9,8 @@ Discord Webhook Sender is a web application that allows you to send messages to 
 <li>Automation: Use our API to send automatic messages to Discord channels.</li>
 <h1>Pictures/Video</h1>
 <hr>
+
+
+https://user-images.githubusercontent.com/64840882/229277585-ac883b82-df5f-4d4a-92fb-d9b58d6e07d3.mp4
+
+![image](https://user-images.githubusercontent.com/64840882/229277594-80246eb4-715d-4f58-b2f4-b4dd94a29e26.png)
