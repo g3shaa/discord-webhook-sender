@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Discord Webhook Sender</title>
+    <link rel="icon" type="image/png" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <form>
+        <label for="webhook-url">Webhook URL:</label>
+        <input type="text" id="webhook-url" placeholder="Enter webhook URL...">
+        <br>
+        <label for="username">Username:</label>
+        <input type="text" id="username" placeholder="Enter username...">
+        <br>
+        <label for="avatar-url">Avatar URL:</label>
+        <input type="text" id="avatar-url" placeholder="Enter avatar URL...">
+        <br>
+        <label for="message">Message:</label>
+        <input type="text" id="message" placeholder="Enter your message...">
+        <button type="submit" onclick="sendMessage(event)">Send</button>
+      </form>
+      <script src="app.js"></script>
+      
+  </body>
+</html>
